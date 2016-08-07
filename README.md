@@ -1,2 +1,2 @@
 # hello-word
-Test repository
+This is a test to see follow the GitHub tutorial.
